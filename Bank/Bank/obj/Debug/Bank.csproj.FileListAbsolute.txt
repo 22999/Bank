@@ -1,0 +1,17 @@
+F:\test\Bank\Bank\bin\Debug\Bank.exe.config
+F:\test\Bank\Bank\bin\Debug\Bank.exe
+F:\test\Bank\Bank\bin\Debug\Bank.pdb
+F:\test\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+F:\test\Bank\Bank\obj\Debug\Bank.frmCreateAccount.resources
+F:\test\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+F:\test\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+F:\test\Bank\Bank\obj\Debug\Bank.exe
+F:\test\Bank\Bank\obj\Debug\Bank.pdb
+F:\test\Bank\Bank\obj\Debug\Bank.frmDeposit.resources
+F:\test\Bank\Bank\obj\Debug\Bank.Login.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmTakeOutMoney.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmQueryAccount.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmQueryAllAccount.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmFreezeAccount.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmChangeAccountPassword.resources
+F:\test\Bank\Bank\obj\Debug\Bank.frmCloseAccount.resources
